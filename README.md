@@ -1,7 +1,7 @@
 ## Hi there 👋
 This is my github repo for the workshop conducted at Morgan Stanley
 ..
-I am trying to push the changes to github
+I'll be updating everything that i learn there over here
 <!--
 **Syeda-Shifa-Anjum/Syeda-Shifa-Anjum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
