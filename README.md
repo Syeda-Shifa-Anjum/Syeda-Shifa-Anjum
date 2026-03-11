@@ -1,7 +1,6 @@
 ## Hi there 👋
-This is my github repo for the workshop conducted at Morgan Stanley.
-..
-I thought they'll make me use this repo during the workshop but they didn't. 
+
+I am Syeda Shifa Anjum. 
 <!--
 **Syeda-Shifa-Anjum/Syeda-Shifa-Anjum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
